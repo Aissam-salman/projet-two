@@ -1,0 +1,15 @@
+body {
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+    color: $color-primary;
+    background: center center / cover no-repeat url(/projet-two/assets/backgrounds-first-plan.svg), #2A2A2A ;
+}
+
+a {
+    color: #fff;
+}
+
+.page {
+    margin: $margin-mobile;
+}
+

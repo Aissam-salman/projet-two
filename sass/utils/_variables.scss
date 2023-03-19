@@ -1,0 +1,13 @@
+$color-primary: #fff;
+$color-secondary: #1AA37A;
+
+$margin-nav: 56px 104px 102px 104px;
+$margin-mobile: 0px 10px;
+
+// breakpoints map 
+$breakpoints: (
+    desktop: 1235px,
+    tablet: 760px,
+    mobile: 599px,
+    small: 410px,
+);
